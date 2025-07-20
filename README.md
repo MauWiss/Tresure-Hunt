@@ -1,4 +1,8 @@
-# Tresure-Hunt
+
+#Link to videos on YouTube 
+presentation video - https://youtu.be/EBFKXpef6Vw
+
+Game explanation - https://www.youtube.com/watch?v=heuuk2oSoVI
 
 # Treasure Race
 
