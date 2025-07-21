@@ -1,12 +1,16 @@
 
-#Link to videos on YouTube 
-presentation video - https://youtu.be/EBFKXpef6Vw
-
-Game explanation - https://www.youtube.com/watch?v=heuuk2oSoVI
-
 # Treasure Race
 
 A competitive treasure-hunting game where you race against a strategic AI opponent to be the first to reach 100 points!
+
+##  Demo Videos 
+- **Presentation Video:** [YouTube Link](https://youtu.be/EBFKXpef6Vw)
+- **Game Explanation:** [YouTube Link](https://www.youtube.com/watch?v=heuuk2oSoVI)
+
+##  Project Documentation 
+
+- **Full Project Report (SRS):** [Google Docs Link](https://docs.google.com/document/d/1ei_D8Pw3341YN6k0aRl-e-VyGRl45jF3QJSDUIYSNCc/edit?tab=t.0)
+- **Project Presentation:** [Canva Link](https://www.canva.com/design/DAGtdb62nBo/KauVAMfmx_25QJTd280FnA/edit?utm_content=DAGtdb62nBo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Game Overview
 
